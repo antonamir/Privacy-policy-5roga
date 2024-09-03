@@ -11,7 +11,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
-###Information Collection and Use
+Information Collection and Use
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, specifically your name, email address, and profile photo. This information is used solely to display it in the app's user interface, such as in the drawer menu. The information that we request will be retained by us and used as described in this privacy policy.
 
 ### Cookies  
