@@ -10,7 +10,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, specifically your name, email address, and profile photo. This information is used solely to display it in the app's user interface, such as in the drawer menu. The information that we request will be retained by us and used as described in this privacy policy.
 Additionally, after signing in, we may collect additional information from you, including names and some numerical data, which will be used to enhance your experience within the app. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you. 
+The app does use third party services that may collect information used to identify you.
+Data Deletion and Account Removal: Users have the right to delete their personal data and account from within the app. You can delete your data and account by navigating to the app's settings, where an option is available to permanently remove all associated information. Once deleted, the data will be irreversibly removed from our servers.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
